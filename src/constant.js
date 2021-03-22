@@ -1,4 +1,4 @@
-export const SAT_BASE_URL = "https://www.n2yo.com/rest/v1/satellite";
+export const SAT_BASE_URL = "https://api.n2yo.com/rest/v1/satellite";
 
 export const SAT_API_KEY = "FG75HT-6SSUFV-ZJ3NDZ-4IZ7"; 
 

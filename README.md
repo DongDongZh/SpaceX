@@ -17,7 +17,7 @@ To start off, put some data into the input box to specify the geo-location of th
 * Ant Design: https://3x.ant.design/docs/spec/introduce 
 * Axios: https://github.com/axios/axios 
 
-## libraries used to generate the word map
+## Modules used to generate the word map
 * topojson:  https://github.com/topojson/topojson-client 
 * d3-geo: https://github.com/d3/d3-geo 
 * d3-geo-projection: https://github.com/d3/d3-geo-projection 

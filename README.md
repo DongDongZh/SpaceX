@@ -1,14 +1,14 @@
-# SpaceX 
+# SpaceX: React JS based Starlink Trajectory Visualization 
 **Deployed at: https://dev8751.d3qik0o8mb1cdd.amplifyapp.com/**
 
 SpaceX is a React JS based starlink searching tool and satellites trajacetory visualization dashboard based on geo-location. Users can find nearby satellites by inputs such as longitude, latitude, altitude, and radius. This app also allows users to view selected starlinks' trajacetory on a D3-based world map. 
 
 ## How to use
-To start off, put some data into the input box to specify the geo-location of the satellites you are looking for. And then click on the **Find Nearby Satellites** button, and you will see a list of starlinks below. Select the some of the starlink boxes and click on the **Track on the map** button to get an animated view on the real-time satellites trajactories.
+To start off, put some data into the input box to specify the geo-location of the satellites you are looking for. And then click on the `**Find Nearby Satellites**` button, and you will see a list of starlinks below. Select the some of the starlink boxes and click on the `**Track on the map**` button to get an animated view on the real-time satellites trajactories.
 
 ## Techniques Used
-React JS
-D3 (for rendering graphic information in world map)
+* React JS
+* D3 (for rendering graphic information in world map)
 
 ## APIs and libraries used
 * N2YO: https://www.n2yo.com/api/#above 

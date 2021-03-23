@@ -3,6 +3,8 @@
 
 SpaceX is a React JS based starlink searching tool and satellites trajacetory visualization dashboard based on geo-location. Users can find nearby satellites by inputs such as longitude, latitude, altitude, and radius. This app also allows users to view selected starlinks' trajacetory on a D3-based world map. 
 
+![Gif of SpaceX app](./src/assets/gif/spacexapp.gif){:height="24px" width="48px"}
+
 ## How to use
 To start off, put some data into the input box to specify the geo-location of the satellites you are looking for. And then click on the `Find Nearby Satellites` button, and you will see a list of starlinks below. Select the some of the starlink boxes and click on the `Track on the map` button to get an animated view on the real-time satellites trajactories.
 

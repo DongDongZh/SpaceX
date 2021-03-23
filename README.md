@@ -1,5 +1,6 @@
 # SpaceX 
 **Deployed at: https://dev8751.d3qik0o8mb1cdd.amplifyapp.com/**
+
 SpaceX is a React JS based starlink searching tool and satellites trajacetory visualization dashboard based on geo-location. Users can find nearby satellites by inputs such as longitude, latitude, altitude, and radius. This app also allows users to view selected starlinks' trajacetory on a D3-based world map. 
 
 ## How to use
@@ -13,7 +14,8 @@ D3 (for rendering graphic information in world map)
 * N2YO: https://www.n2yo.com/api/#above 
 * Ant Design: https://3x.ant.design/docs/spec/introduce 
 * Axios: https://github.com/axios/axios 
-**libraries used to generate the word map:**
+
+## libraries used to generate the word map
 * topojson:  https://github.com/topojson/topojson-client 
 * d3-geo: https://github.com/d3/d3-geo 
 * d3-geo-projection: https://github.com/d3/d3-geo-projection 
